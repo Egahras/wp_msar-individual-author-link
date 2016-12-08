@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: msar Custom Author Link\n"
+"POT-Creation-Date: 2016-12-08 14:59+0100\n"
+"PO-Revision-Date: 2016-12-08 15:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: Mike Sarhage <post@mikesarhage.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: individual-author-link.php\n"
+
+#: custom-author-link.php:49
+msgid "Activate the redirection"
+msgstr "Aktivieren der neuen Verlinkung"
+
+#: custom-author-link.php:50
+msgid "Check to change the Author Link Url to the following Page."
+msgstr "Auswählen um die folgend eingetragene Seite als Author-Link-Url zu nutzen."
+
+#: custom-author-link.php:53
+msgid "Author link"
+msgstr "Autor-Link"
+
+#: custom-author-link.php:70
+msgid "Please select a page as Author-Link-Destination"
+msgstr "Bitte wähle eine Seite als Ziel für din Autor-Link"
